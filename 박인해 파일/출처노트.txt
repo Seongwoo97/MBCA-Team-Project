@@ -1,0 +1,6 @@
+*출처 : 공공데이터포털 (https://www.data.go.kr/index.do)
+*출처 : Big-데이터웨이브 (https://data.busan.go.kr/bdip/)
+*출처 : TASIS 국세통계포털 (https://tasis.nts.go.kr/websquare/websquare.html?w2xPath=/cm/index.xml)
+*출처 : 한국광광데이터랩 https://datalab.visitkorea.or.kr/datalab/portal/main/getMainForm.do
+*출처 : 중소벤처기업 https://mss.go.kr/site/smba/main.do
+*출처 : ONE 윈도우 https://www.data1window.kr/
